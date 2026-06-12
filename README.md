@@ -33,7 +33,8 @@ para.addEventListener('click', someClickHandlerThatDoesntExistYet);
 The UI elements we'll want to add listeners for are:
 
 1. The dice images should have click event listeners to run their respective "roll functions". Each of the four dice types should have their own separate click-handling functions! (The twin six-sided dice can share one function, until/unless you get to that stretch goal.)
-2. And the reset button should have a click listener to reset all data and the whole interface.
+2. To select the images themselves use the following format (will grab the `1.png` inside the `d6` folder for example ``images/d6/1.png``
+3. And the reset button should have a click listener to reset all data and the whole interface.
 
 For now, **let's just `console.log` in our callback functions**. Whether you'll make them named functions or put them inline, just print out the name of the function so you know it ran.
 
