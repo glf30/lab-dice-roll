@@ -18,6 +18,15 @@ const getRandomNumber = function(max) {
     return result;
 }
 
+// For Median 
+// This will sort your array from smallest to largest number
+const sortByNumber = function(arr) {
+  const byNumber = function(item1, item2) {
+    return item1 - item2;
+  }
+  return arr.slice().sort(byNumber);
+}
+
 /*******************
  * YOUR CODE BELOW *
  *******************/
