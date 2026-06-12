@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Today you'll be making an app that combines all the fun of rolling dice with all the fun of tracking the average rolls so far.
+Today you'll be making an app that combines all the fun of rolling dice with all the fun of tracking the average rolls so far.  The solution (with stretch goals completed) is located [here](https://ci-wdi-900.github.io/just-how-we-roll/)
 
 ### Tools Left Behind
 
